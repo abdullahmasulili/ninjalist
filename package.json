@@ -1,6 +1,10 @@
 {
   "name": "ninjalist",
   "version": "0.1.0",
+  "description": "The Net Ninja NextJS Tutorial",
+  "author": {
+    "name": "Abdullah Masulili"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
